@@ -1,0 +1,23 @@
+{
+  "name": "tangtree",
+  "version": "1.0.0",
+  "description": "fun app to make rectangles ",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshuajhun/tangtree.git"
+  },
+  "keywords": [
+    "package",
+    "json"
+  ],
+  "author": "joshuajhun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshuajhun/tangtree/issues"
+  },
+  "homepage": "https://github.com/joshuajhun/tangtree#readme"
+}
