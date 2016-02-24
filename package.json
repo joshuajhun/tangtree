@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/joshuajhun/tangtree/issues"
   },
-  "homepage": "https://github.com/joshuajhun/tangtree#readme"
+  "homepage": "https://github.com/joshuajhun/tangtree#readme",
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  }
 }
